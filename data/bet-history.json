@@ -1,0 +1,13 @@
+{
+  "columns": [
+    "Date",
+    "League",
+    "Fixture",
+    "Market",
+    "Odds Taken",
+    "Stake",
+    "Result",
+    "Profit"
+  ],
+  "rows": []
+}
